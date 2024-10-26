@@ -7,3 +7,5 @@ The primary objective of this project was to evaluate the sales performance of a
 **Technologies and Tools Leveraged:** Microsoft Power BI, MYSQL Database, Microsoft Excel
 
 ![image](https://github.com/user-attachments/assets/39701121-3260-49c9-a9d9-ebfbf7c288a5)
+
+![image](https://github.com/user-attachments/assets/a6f256e8-fb1c-4ebd-a7a7-90ddf9b511fb)
